@@ -1,4 +1,16 @@
+import { initPathRouter } from '@bjornlu/svelte-router';
 import App from './App.svelte';
+import Sheet from './pages/Sheet.svelte';
+import Circle from './pages/Circle.svelte';
+import Cost from './pages/Cost.svelte';
+
+
+
+initPathRouter([
+  { path: '/', component: Sheet },
+  { path: '/circle', component: Circle },
+  { path: '/cost', component: Cost }
+  ])
 
 let app = new App({
   target: document.body,
