@@ -74,7 +74,7 @@
     <label for="inputPassword6" class="col-form-label">Height (inch) :</label>
   </div>
   <div class="col-auto">
-    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+    <input type="number" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
   </div>  
 </div>
 
@@ -83,7 +83,7 @@
     <label for="inputPassword6" class="col-form-label">Diameter (inch) :</label>
   </div>
   <div class="col-auto">
-    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+    <input type="number" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
   </div>  
 </div>
 
@@ -92,7 +92,7 @@
     <label for="inputPassword6" class="col-form-label">Width (inch) :</label>
   </div>
   <div class="col-auto">
-    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+    <input type="number" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
   </div>  
 </div>
 
@@ -101,7 +101,7 @@
     <label for="inputPassword6" class="col-form-label">Thickness (mm) :</label>
   </div>
   <div class="col-auto">
-    <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+    <input type="number" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
   </div>  
 </div>
 
